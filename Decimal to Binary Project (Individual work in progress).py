@@ -1,4 +1,5 @@
-# Decimal to Binary (I/O function)
+# Decimal to Binary w/input/output functionality
+# **Adjusted from source code @ https://www.programiz.com/python-programming/examples/decimal-binary-recursion 
 # 29 August 2017
 # <Individual Practice>
 # William Thomas
