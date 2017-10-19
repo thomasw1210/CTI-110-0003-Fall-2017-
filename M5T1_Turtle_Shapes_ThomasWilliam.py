@@ -37,5 +37,3 @@ def turtleshapes():
     wn.mainloop()
 # Run program.
 turtleshapes()
-
-
